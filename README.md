@@ -1,7 +1,10 @@
 # GUNet
-GUNet -  A Guided Upsampling Network for Short Wave Infrared Images Using Graph Regularization
+GUNet - A Guided Upsampling Network for Short Wave Infrared Images Using Graph Regularization
 
-Coming soon...
+This repository provides code to upsample the real-world example shown throughout the paper.
+
+The synthetic data is available [here](https://drive.google.com/file/d/1r9r1Q1NCNdakp5mMob1Lp1p0IM9tuxdD/view?usp=sharing).
+The model is available [here](https://drive.google.com/file/d/1HSFbIsKULRkiVLhKVDCWrTDaQB2ft8qi/view?usp=sharing).
 
 ## License
 The source code is licensed using CC-BY-SA.
@@ -14,7 +17,7 @@ If you use the source code for your research, you should cite the following pape
   year={2024},
   volume={},
   number={},
-  pages={tba},
-  doi={tba}
+  pages={3265-3269},
+  doi={10.1109/ICASSP48485.2024.10447935}
 }
 ```
